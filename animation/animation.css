@@ -1,0 +1,15 @@
+@import "../common.css";
+
+.box-road {
+  background: green;
+  width: 1000px;
+  height: 40px;
+}
+
+.box-object {
+  background: rebeccapurple;
+  width: 50px;
+  height: 30px;
+  position: relative;
+  left: 0;
+}
